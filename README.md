@@ -1,3 +1,12 @@
+
+## Integrantes
+* John Fernando Cruz Becerra
+* Oscar Javier Huertas Campo
+* Mauricio Alejandro Gaviria Alzate
+
+
+
+
 Consultando la Base de Datos de una Universidad
 
 * Recursos del Examen (GitHub)
